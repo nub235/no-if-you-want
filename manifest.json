@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "No If You Want",
+  "version": "1.0",
+  "description": "Removes 'If you want' sentences from ChatGPT responses",
+  "content_scripts": [
+    {
+      "matches": ["https://chatgpt.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
