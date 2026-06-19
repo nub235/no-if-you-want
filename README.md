@@ -2,7 +2,7 @@
 
 A Chrome extension that removes "If you want" sentences from ChatGPT responses.
 
-ChatGPT loves to end responses with things like "If you want, I can blah blah blah". This extension removes those sentences and any accompanying horizontal rules.
+ChatGPT loves to end responses with things like "If you want, I can...". This extension removes those sentences and any accompanying horizontal rules.
 
 ## Install
 
